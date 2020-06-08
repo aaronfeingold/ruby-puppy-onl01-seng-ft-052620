@@ -1,4 +1,35 @@
 # # Add your code here
+class Dog 
+  
+  
+end 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # class Dog
 #   attr_accessor :name
 
